@@ -5,7 +5,10 @@ Project Deployment link: https://mern-project-quiz-frontend-user.vercel.app/
 
 Backend github link: https://github.com/dishaaach03/online-quiz-application-backend 
 
-Frontend-admin github link: https://github.com/dishaaach03/quiz-application_frontend_admin-main 
+Frontend-admin github link: https://github.com/dishaaach03/quiz-application_frontend_admin-main  
+
+I'd:admin@gmail.com
+Password:admingmail23
 
 Frontend-user github link: https://github.com/dishaaach03/online-quiz_frontend_user-main 
 
